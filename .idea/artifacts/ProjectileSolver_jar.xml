@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectileSolver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectileSolver_jar</output-path>
+    <root id="archive" name="ProjectileSolver.jar">
+      <element id="module-output" name="ProjectileSolver" />
+    </root>
+  </artifact>
+</component>
